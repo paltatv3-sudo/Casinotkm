@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /admin
+Disallow: /api
+Disallow: /.env
+Disallow: /private
+
+Sitemap: https://casinotkm.com/sitemap.xml
+Sitemap: https://casinotkm.com/sitemap-tr.xml
+Sitemap: https://casinotkm.com/sitemap-en.xml
+Sitemap: https://casinotkm.com/sitemap-vi.xml
+Sitemap: https://casinotkm.com/sitemap-th.xml
+Sitemap: https://casinotkm.com/sitemap-fil.xml

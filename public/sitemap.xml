@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://casinotkm.com/</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://casinotkm.com/tr/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casinotkm.com/en/" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://casinotkm.com/vi/" />
+    <xhtml:link rel="alternate" hreflang="th" href="https://casinotkm.com/th/" />
+    <xhtml:link rel="alternate" hreflang="fil" href="https://casinotkm.com/fil/" />
+    <xhtml:link rel="alternate" hreflang="kk" href="https://casinotkm.com/kk/" />
+    <xhtml:link rel="alternate" hreflang="uz" href="https://casinotkm.com/uz/" />
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://casinotkm.com/games</loc>
+    <xhtml:link rel="alternate" hreflang="tr" href="https://casinotkm.com/tr/games" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://casinotkm.com/en/games" />
+    <xhtml:link rel="alternate" hreflang="vi" href="https://casinotkm.com/vi/games" />
+    <lastmod>2026-07-05</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://casinotkm.com/slots</loc>
+    <lastmod>2026-07-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://casinotkm.com/blackjack</loc>
+    <lastmod>2026-07-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://casinotkm.com/roulette</loc>
+    <lastmod>2026-07-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://casinotkm.com/poker</loc>
+    <lastmod>2026-07-05</lastmod>
+    <priority>0.8</priority>
+  </url>
+</urlset>
